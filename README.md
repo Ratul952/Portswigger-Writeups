@@ -8,7 +8,7 @@ used, the impact, and how to fix it.
 
 ## Progress
 
-Labs solved: 1 / 6
+Labs solved: 2 / 6
 
 ## Writeups
 
