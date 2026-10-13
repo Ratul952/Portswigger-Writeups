@@ -16,6 +16,7 @@ Labs solved: 2 / 6
 |---|-----|----------|------------|
 | 1 | SQL injection attack, listing the database contents on non-Oracle databases | SQL Injection | Practitioner |
 | 2 | Blind SQL injection with conditional responses | SQL Injection (Blind) | Practitioner |
+| 3 | Reflected XSS into a JavaScript string with angle brackets and double quotes HTML-encoded and single quotes escaped | XSS (Reflected) | Practitioner |
 
 ## Tools used
 
