@@ -15,6 +15,7 @@ Labs solved: 1 / 6
 | # | Lab | Category | Difficulty |
 |---|-----|----------|------------|
 | 1 | SQL injection attack, listing the database contents on non-Oracle databases | SQL Injection | Practitioner |
+| 2 | Blind SQL injection with conditional responses | SQL Injection (Blind) | Practitioner |
 
 ## Tools used
 
