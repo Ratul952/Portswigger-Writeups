@@ -18,6 +18,7 @@ Labs solved: 4 / 6
 | 2 | Blind SQL injection with conditional responses | SQL Injection (Blind) | Practitioner |
 | 3 | Reflected XSS into a JavaScript string with angle brackets and double quotes HTML-encoded and single quotes escaped | XSS (Reflected) | Practitioner |
 | 4 | Reflected XSS with event handlers and href attributes blocked | XSS (Reflected) | Expert |
+| 5 | Method-based access control can be circumvented | Access Control | Practitioner |
 
 ## Tools used
 
