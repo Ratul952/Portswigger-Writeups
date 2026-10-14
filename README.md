@@ -19,6 +19,7 @@ Labs solved: 4 / 6
 | 3 | Reflected XSS into a JavaScript string with angle brackets and double quotes HTML-encoded and single quotes escaped | XSS (Reflected) | Practitioner |
 | 4 | Reflected XSS with event handlers and href attributes blocked | XSS (Reflected) | Expert |
 | 5 | Method-based access control can be circumvented | Access Control | Practitioner |
+| 6 | Multi-step process with no access control on one step | Access Control | Practitioner |
 
 ## Tools used
 
