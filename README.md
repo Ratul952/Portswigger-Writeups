@@ -8,7 +8,7 @@ used, the impact, and how to fix it.
 
 ## Progress
 
-Labs solved: 4 / 6
+Labs solved: 8 / 8
 
 ## Writeups
 
@@ -21,6 +21,7 @@ Labs solved: 4 / 6
 | 5 | Method-based access control can be circumvented | Access Control | Practitioner |
 | 6 | Multi-step process with no access control on one step | Access Control | Practitioner |
 | 7 | Username enumeration via subtly different responses | Authentication | Practitioner |
+| 8 | Broken brute-force protection, multiple credentials per request | Authentication | Practitioner |
 
 ## Tools used
 
