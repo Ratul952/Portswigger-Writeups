@@ -20,6 +20,7 @@ Labs solved: 4 / 6
 | 4 | Reflected XSS with event handlers and href attributes blocked | XSS (Reflected) | Expert |
 | 5 | Method-based access control can be circumvented | Access Control | Practitioner |
 | 6 | Multi-step process with no access control on one step | Access Control | Practitioner |
+| 7 | Username enumeration via subtly different responses | Authentication | Practitioner |
 
 ## Tools used
 
